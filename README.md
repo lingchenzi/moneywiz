@@ -68,6 +68,10 @@ https://raw.githubusercontent.com/lingchenzi/moneywiz/main/{folder}/{icon}.png
 | ---- | ------------------------------------------------------------ |
 | Cash | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/other/cash.png |
 | Loan | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/other/loan.png |
+| USD | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/other/usd.png |
+| Euro | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/other/euro.png |
+| GBP | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/other/gbp.png |
+| USDT | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/other/usdt.png |
 
 ------
 
