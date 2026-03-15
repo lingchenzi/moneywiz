@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/lingchenzi/moneywiz/main/{folder}/{icon}.png
 | ICBC Asia     | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/hk/icbchk.png |
 | CCB Asia      | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/hk/ccbhk.png |
 | CITIC HK      | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/hk/citichk.png |
-| CMB Wing Lung | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/hk/cmbhk.png |
+| CMB HK        | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/hk/cmbhk.png |
 | BOCOM HK      | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/hk/bocomhk.png |
 | ZA Bank       | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/hk/zahk.png |
 | Airstar Bank  | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/hk/airstarhk.png |
