@@ -72,6 +72,10 @@ https://raw.githubusercontent.com/lingchenzi/moneywiz/main/{folder}/{icon}.png
 | Euro | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/other/euro.png |
 | GBP | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/other/gbp.png |
 | USDT | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/other/usdt.png |
+| VISA | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/other/visa.png |
+| Mastercard | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/other/mastercard.png |
+| UnionPay | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/other/unionpay.png |
+
 
 ------
 
