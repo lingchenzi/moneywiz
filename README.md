@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/lingchenzi/moneywiz/main/{folder}/{icon}.png
 | Investment       | Icon                                                         |
 | ---------- | ------------------------------------------------------------ |
 | Longbridge HK | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/investment/longbridgehk.png |
-| FSMOne HK | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/investment/fmsonehk.png |
+| FSMOne HK | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/investment/fsmonehk.png |
 
 ------
 
