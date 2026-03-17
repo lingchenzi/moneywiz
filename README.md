@@ -5,7 +5,7 @@ URL 模板：
 ```
 https://raw.githubusercontent.com/lingchenzi/moneywiz/main/{folder}/{icon}.png
 ```
-> 更新时间：2026-03-15
+> 更新时间：2026-03-17
 >
 
 
@@ -59,6 +59,15 @@ https://raw.githubusercontent.com/lingchenzi/moneywiz/main/{folder}/{icon}.png
 | ---------- | ------------------------------------------------------------ |
 | iFast Bank | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/uk/ifast.png |
 | Wise       | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/uk/wise.png |
+
+------
+
+# 💰 Investment
+
+| Investment       | Icon                                                         |
+| ---------- | ------------------------------------------------------------ |
+| Longbridge HK | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/investment/longbridgehk.png |
+| FSMOne HK | https://raw.githubusercontent.com/lingchenzi/moneywiz/main/investment/fmsonehk.png |
 
 ------
 
